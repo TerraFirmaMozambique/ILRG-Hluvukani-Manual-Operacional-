@@ -13,7 +13,8 @@
   * [Captura dos limites](certificacao-de-parcelas-individuais-c-duats/captura-dos-limites.md)
   * [Preparação de Edital](certificacao-de-parcelas-individuais-c-duats/preparacao-de-edital.md)
   * [Confirmação, Objecções e Correcções](certificacao-de-parcelas-individuais-c-duats/confirmacao-objeccoes-e-correccoes.md)
-  * [Certificação](certificacao-de-parcelas-individuais-c-duats/certificacao.md)
-  * [Formulários ODK](certificacao-de-parcelas-individuais-c-duats/formularios-odk.md)
+  * [Produção do Mapa e Lista Final de parcelas](certificacao-de-parcelas-individuais-c-duats/producao-do-mapa-e-lista-final-de-parcelas.md)
+  * [Emissão de Certificados](certificacao-de-parcelas-individuais-c-duats/certificacao.md)
+  * [Produção do Mapa e Lista Final de parcelas](certificacao-de-parcelas-individuais-c-duats/producao-do-mapa-e-lista-final-de-parcelas.md)
 * [O Plataforma Tecnologico](o-plataforma-tecnologico.md)
 

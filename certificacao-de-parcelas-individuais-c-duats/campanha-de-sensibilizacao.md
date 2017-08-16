@@ -1,32 +1,50 @@
-# Campanha de sensibilização e divulgação de calendário de actividades
+### Campanha de sensibilização e divulgação de calendário de actividades
 
-## **Objectivo:**
+#### **Objectivo**
 
-xxx
-
-As reuniões públicas são de grande importância, pois fazem com que a mensagem possa chegar directamente aos membros da comunidade. Estas reuniões servem para esclarecer os direitos individuais e familiares, e para explicar os passos de processo de delimitação. Nestes encontros, apresenta se a equipe de trabalho, a metodologia que vai ser implementada e as ferramentas que serão usadas, o plano de trabalho e outras informações importantes.
+Apresentar a comunidade a metodologia de trabalho de delimitação e certificação de parcelas individuais e/ou familiares
 
 > ![](/assets/meet_pic.jpg)
 >
 > Reuniões públicas nas comunidades para explicação e esclarecimento do trabalho
 
-## **Processo**
+#### **Processo**
 
-Nestes encontros, os membros da associação com ajuda da equipa do campo vão recordar os membros da comunidade dos processos já feitas, incluindo o estabelecimento da associação, e a delimitação comunitária. 
+* O processo começa com um encontro com os lideres influentes da comunidade, incluindo os chefes dos povoados/zonas ou seus representantes. Após este encontro será realizado um outro, mais abrangente, com membros da comunidade onde será realizado o trabalho.
+* A equipa usa os mapas dos blocos cadastrais, explicando todos os passos a seguir no processo:
+  * registo de pessoas e os seus dados pessoais
+  * identificação dos limites das parcelas
+  * processo de edital
+  * emissão de certificados
+* A equipa lista a informação que será solicitada aos detentores de direitos
+  * fotografias
+  * um documento de identificação
+  * detalhes sobre a aquisição da parcela
+  * tipo de uso de parcela
+  * testemunhas
+* A equipa mostra as ferramentas que serão usadas:
+  * tablets
+  * mapas
+  * GPS
+  * fita de sinalização
+* A equipa explica que vai-se mapear e confirmar os limites de cada parcela. 
+* A associação e a equipa técnica explica as opções para assegurar a participação das mulheres e pessoas vulneráveis, incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade
+* A equipa enfatiza a necessidade de tentar resolver os conflitos de terra pendentes antes do processo de mapeamento
+* Definir o plano de trabalho
 
-Vão mostrar e confirmar o mapa da delimitação comunitária já feito anteriormente pela a associação e os membros da comunidade \(ou povoado\). 
+#### **Ferramentas**
 
-Vão explicar todos os passos a seguir no processo, assim como os requerimentos dos titulares e co-titulares.
+* Mapa do bloco
+* Mapa Visão Geral de grelha
+* Mapas de Serie H
+* Tablet
+* Garmin
+* Fita sinalização
+* Formulário A
 
-A equipa explica que vai-se mapear e confirmar os limites de cada parcela familiar. Uma parcela inclui uma área contigua duma pessoa ou duma família, incluindo áreas de habitação, machambas em uso, machambas em pousio, floresta e outras áreas para expansão ou uso futuro.
+#### **Produtos**
 
-A associação e a equipa técnica vão enfatizar o direito da posse de terra pelas mulheres, e vão explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade.
+Formulário A preenchido
 
-## **Ferramentas**
 
-Preencher o Formulário XXX
-
-## **Produtos**
-
-xx
 

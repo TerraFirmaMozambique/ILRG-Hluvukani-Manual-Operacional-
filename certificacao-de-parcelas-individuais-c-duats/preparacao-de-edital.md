@@ -1,32 +1,31 @@
-# Produção de mapas e listas de requerentes para publicação \(edital\)
+### Produção de Edital
 
-## Objectivo
+#### Objectivo
 
+Produzir mapas em tamanho A1 das parcelas individuais e/ou familiares e as listas com os nomes dos requerentes
 
+#### Processo
 
-## Processo
+A equipa técnica do escritório produz um mapa geral das parcelas em formato A1 para facilitar a visualização, análise e validação pela comunidade durante a fase de Objecções e Correcções. A equipa técnica produz também uma lista de requerentes para a comunidade em tamanho A4, contendo informações relevantes sobre o requerente e a parcela.
 
-xx
-
-A equipa técnica dos cartógrafos produz um mapa geral das parcelas e uma lista de requerentes para cada comunidade, no formato A1 para facilitar a visualização, análise e validação pela comunidade durante a fase de Confirmação, Objeções e Correções.
-
-No formato A0 ou A1, os mapas das parcelas são reproduzidos numa recomendada. O mapa é acompanhado pela lista dos requerentes \(edital\), contendo informação relevante sobre o requerente e a parcela.
+As parcelas são enumeradas com base no Número Único da Parcela \(NUP\), que é o número que consta no recibo e que irá facilitar a localização e identificação da parcela no mapa pelo requerente.
 
 > ![](/assets/occ.png)![](/assets/OCClist.PNG)
 >
 > Exemplo do mapa e lista
 
-Segundo o artigo 24, do regulamento da lei de terra é obrigatório a afixação do edita em locais públicos de maior concentração da população para facilitar a consulta, o período máximo estabelecido pela legislação de terras é de 30 dias. Também o edital pode ser reproduzido no formato A0 ou A1.
+#### Ferramentas
 
-No\(s\) local \(is\) de fixação do edital, deve estar permanentemente 2 técnicos para explicar e acompanhar o processo.
+* Dados submetidos através do Formulário B Registrar Pessoas CDUATs \(que fornece a lista de requerentes\)
+* Dados submetidos através do Formulário C Registrar Parcelas CDUATs  \(que fornece a informação sobre as parcelas\)
+* Mapas da série H com o desenho das parcelas individuais e/ou familiares
 
-Antes e durante a publicação do edital, é necessário anunciar à comunidade das datas e locais de afixação de edital.
+#### Produtos
 
-## Ferramentas
+* Mapas tamanho A1 Objecções e Correcções
+* Lista de requerentes 
 
-Preencher o Formulário XXX
 
-## Produtos
 
-xx
+
 
