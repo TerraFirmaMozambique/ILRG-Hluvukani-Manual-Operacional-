@@ -15,6 +15,5 @@
   * [Confirmação, Objecções e Correcções](certificacao-de-parcelas-individuais-c-duats/confirmacao-objeccoes-e-correccoes.md)
   * [Produção do Mapa e Lista Final de parcelas](certificacao-de-parcelas-individuais-c-duats/producao-do-mapa-e-lista-final-de-parcelas.md)
   * [Emissão de Certificados](certificacao-de-parcelas-individuais-c-duats/certificacao.md)
-  * [Produção do Mapa e Lista Final de parcelas](certificacao-de-parcelas-individuais-c-duats/producao-do-mapa-e-lista-final-de-parcelas.md)
 * [O Plataforma Tecnologico](o-plataforma-tecnologico.md)
 
