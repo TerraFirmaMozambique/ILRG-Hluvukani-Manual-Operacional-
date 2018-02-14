@@ -1,4 +1,4 @@
-# Certificação de Parcelas Individuais \(C-DUATs\)
+# Declarações para Parcelas Individuais \(D-DUATs\)
 
 ## Uma nova abordagem...
 
@@ -16,19 +16,19 @@
 
 * A identificação das áreas individuais que merecem protecção especial \(viúvas, mulheres que são ‘cabeça da família’\)
 * Estabelecimento e formação das equipas comunitárias para implementar um programa de delimitação individual
-* A delimitação e certificação destas áreas
+* A delimitação e emmisão de declarações para identificar estas áreas
 
 A metodologia para a delimitação das áreas individuais e familiares segue as melhores práticas internacionais para os processos de regularização da posse de terra. Trata-se de uma série de tarefas-chave, conforme descrito nas seções a seguir.
 
-## Etapas de delimitação de terras individuais e familiares 
+## Etapas de delimitação de terras individuais e familiares
 
 1. Registro dos titulares
-2. Delimitação dos povoados
-3. Produção de mapas dos povoados
+2. Delimitação dos blocos
+3. Produção de mapas dos blocos
 4. Captura dos limites das parcelas familiares
-5. Produção de mapas e listas de requerentes para publicação \(edital\) em cada povoado
+5. Produção de mapas e listas de requerentes para publicação \(edital\) em cada bloco
 6. Período para Confirmação, Objeções e Correções
-7. Certificação
+7. Emmisão de Declarações de Prova de Acquisição de DUAT \(D-DUATs\)
 
 
 
