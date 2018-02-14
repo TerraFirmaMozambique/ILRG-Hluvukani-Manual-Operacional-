@@ -16,16 +16,14 @@ As parcelas são enumeradas com base no Número Único da Parcela \(NUP\), que �
 
 #### Ferramentas
 
-* Dados submetidos através do Formulário B Registrar Pessoas CDUATs \(que fornece a lista de requerentes\)
-* Dados submetidos através do Formulário C Registrar Parcelas CDUATs  \(que fornece a informação sobre as parcelas\)
+* Dados submetidos através do Formulário B Registrar Pessoas D-DUATs \(que fornece a lista de requerentes\)
+* Dados submetidos através do Formulário C Registrar Parcelas D-DUATs  \(que fornece a informação sobre as parcelas\)
 * Mapas da série H com o desenho das parcelas individuais e/ou familiares
 
 #### Produtos
 
 * Mapas tamanho A1 Objecções e Correcções
 * Lista de requerentes 
-
-
 
 
 

@@ -23,9 +23,9 @@ Os passos do processo são:
 
    1. _membros_: Os membros da equipa normalmente incluem um membro da associação, com ajuda dum motivador \(que podia supervisar 4 ou 5 lugares de registro se for necessário\). Também e aconselhável a participação dum líder comunitário \(p.e. regulo da 3a escalão, chefe do povoado ou chefe da zona\) para mostrar que a liderança esta envolvido no processo.
 
-   2. _capacidade_: os membros da equipa dominem uso do tablet e do Formulário B: Registo de Pessoas C-DUATs.
+   2. _capacidade_: os membros da equipa dominem uso do tablet e do Formulário B: Registo de Pessoas D-DUATs.
 
-   3. _material: _ confirmar que o tablet esta carregado, e que tem a versão mais actualizada do Formulário B: Registo de Pessoas C-DUATs. Confirmar que o local de registo tem cadeiras e uma mesa se for possível.
+   3. _material: _ confirmar que o tablet esta carregado, e que tem a versão mais actualizada do Formulário B: Registo de Pessoas D-DUATs. Confirmar que o local de registo tem cadeiras e uma mesa se for possível.
 
 **No dia do registo**:
 
@@ -35,7 +35,7 @@ Para cada requerente:
 
 1. Confirmar que a pessoa e dono duma parcela dentro da comunidade e nao quer registar uma parcela emprestada. O líder comunitária ou outros testemunhas presentes pode confirmar. O requerente também tem que mostrar que tem o seu documento da identificação.
 2. Confirmar se o requerente quer fazer registo como titular único ou em co-titularidade. Um requerente \(ou dois ou mais co-titulares\) que tem mais de que uma parcela tem que registar como Titular somente uma vez, e vai poder delimitar mais do que uma parcela
-3. Preencher o "Formulário B: Registo de Pessoas C-DUATs". Normalmente começa com um líder \(p.e. regulo, chefa da zona\).
+3. Preencher o "Formulário B: Registo de Pessoas D-DUATs". Normalmente começa com um líder \(p.e. regulo, chefa da zona\).
 4. Depois de preencher, rever e confirmar os dados com o requerente
 5. Explicar os próximos passos para delimitação das parcelas. Enfatizar que todos os co-titulares também tem que registar, e todos tem que estar presente no processo de delimitação das parcelas, juntos com os documentos da identificação. Explicar os próximos passos para delimitação das parcelas. Enfatizar que todos os co-titulares também tem que registar, e todos tem que estar presente no processo de delimitação das parcelas, juntos com os documentos da identificação.
 6. Repete o processo com o próximo requerente. Normalmente o processo de registo leve mais ou menos 10 a 15 minutos por pessoa
@@ -44,11 +44,9 @@ No fim de dia, envie os formulários preenchidos ao servidor. A equipa técnica 
 
 #### Ferramentas
 
-Tablet com Formulário B: Registo de Pessoas C-DUATS
+Tablet com Formulário B: Registo de Pessoas D-DUATS
 
 #### Produtos
 
 Lista dos requerentes
-
-
 

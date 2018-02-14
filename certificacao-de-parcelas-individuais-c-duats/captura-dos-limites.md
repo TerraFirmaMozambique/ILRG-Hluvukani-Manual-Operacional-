@@ -4,7 +4,7 @@
 
 A identificação dos limites refere-se a um processo de marcação num mapa da localização dos limites de cada área para o qual alguém deseja reivindicar um DUAT.
 
-Existem maneiras diferentes de fazer a identificação destes limites. Os limites de DUATs cedidos pelo Estado aos terceiros tem que ser identificados através de processo legal de **demarcarão**, em que é necessário a utilização de equipamento de GPS por um agrimensor ajuramentado, acompanhado de demarcação física dos limites, colocando marcadores.
+Existem maneiras diferentes de fazer a identificação destes limites. Os limites de DUATs cedidos pelo Estado aos terceiros tem que ser identificados através de processo legal de **demarcação**, em que é necessário a utilização de equipamento de GPS por um agrimensor ajuramentado, acompanhado de demarcação física dos limites, colocando marcadores.
 
 Mas os DUATs adquiridos por ocupação podem ser identificados usando um processo alternativo, menos exigente, conhecido como **delimitação**. A delimitação, em linha com as melhores práticas internacionais nesta matéria, envolve a identificação dos limites das parcelas de acordo com o principio de 'limite geral'. Isto significa que não há necessidade para vigiar os limites, e que podem ser identificados sempre que possível através de referências visíveis dos limites nas imagens de satélite impressas. Quando tal não for possível, um dispositivo GPS simples será usado para tirar pontos limítrofes.
 
@@ -31,7 +31,7 @@ O chefe da equipa apresenta os membros da sua equipa e faz uma breve explicaçã
 * É importante que todas as pessoas que tenham terra na área sejam informadas para estar presentes ou ter um membro da família ou ocupante certificar a terra em seu nome.
 * No entanto, somente o proprietário poderá colectar um certificado no fim do processo.
 * É importante que a co-titularidade seja apresentada como uma opção. Isso permitirá o uso de certificados por mais tempo sem correcção/alteração.
-* É importante que os membros da comunidade estejam prontos para ir as _machambas _e ajudar a resolver disputas
+* É importante que os membros da comunidade estejam prontos para ir as \_machambas \_e ajudar a resolver disputas
 * Se houver disputas que sejam graves e que precisem ir para uma autoridade diferente, estas devem ser documentadas
 * Se as disputas não puderem ser resolvidas, a delimitação ainda será feito no campo, mas as parcelas não serão certificadas nem os certificados entregues até estas disputas serem resolvidas
 
@@ -127,7 +127,7 @@ Depois de concluir o trabalho, a equipa do campo vai enviar os mapas impressos m
 #### Conclusão
 
 * Preencher o recibo
-* Preencher o Formulário C: Registo de Parcelas C-DUATs
+* Preencher o Formulário C: Registo de Parcelas D-DUATs
 
 #### Ferramentas
 
@@ -137,7 +137,7 @@ Cada equipa vai ter:
 * Um mapa, no tamanho A3, que oferece a Visão Geral do bloco, mostrando onde cada um dos mapas de 'H' se encaixa dentro da grelha geral de mapas para o bloco
 * Uma prancheta para manter os mapas
 * Um lápis de grafite suave \(pelo menos B3\) para marcar os limites nos mapas
-* Tablet carregado com o Formulário de ODK \(Formulário C: Registo de Parcelas C-DUAT\)
+* Tablet carregado com o Formulário de ODK \(Formulário C: Registo de Parcelas D-DUATs\)
 * Um Garmin Glo conectado ao tablet para capturar os pontos
 * Um livro de recibos pré-impressos, para completar e emitir aos requerentes, uma vez que eles demarcaram a parcela
 

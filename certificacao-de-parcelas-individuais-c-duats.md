@@ -16,7 +16,7 @@
 
 * A identificação das áreas individuais que merecem protecção especial \(viúvas, mulheres que são ‘cabeça da família’\)
 * Estabelecimento e formação das equipas comunitárias para implementar um programa de delimitação individual
-* A delimitação e emmisão de declarações para identificar estas áreas
+* A delimitação e emmisão de Declarações de Prova de Acquisição de DUAT para identificar estas áreas
 
 A metodologia para a delimitação das áreas individuais e familiares segue as melhores práticas internacionais para os processos de regularização da posse de terra. Trata-se de uma série de tarefas-chave, conforme descrito nas seções a seguir.
 
