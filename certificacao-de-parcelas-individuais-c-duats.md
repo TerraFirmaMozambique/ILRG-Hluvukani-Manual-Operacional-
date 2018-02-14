@@ -2,9 +2,9 @@
 
 ## Uma nova abordagem...
 
-É possível imaginar um tipo diferente de programa como uma alternativa à titulação formal através do cadastro nacional:
+É possível imaginar uma alternativa à titulação formal:
 
-* ...que segue a lógica da lei ... que as comunidades têm responsabilidades de gestão da terra \(e, portanto, poderes\);
+* ...que segue a lógica da lei ... que as comunidades locais têm responsabilidades de gestão da terra \(e, portanto, poderes\);
 * ...que se encaixa dentro de um paradigma crescente de processos de reconhecimento de direitos sobre a terra, que postula um "continuum de direitos ';
 * ...que se concentra na criação de instituições legítimas a nível local dentro das comunidades que podem \(e já o fazem\) desempenhar uma função de administração da terra;
 * ...que aborda as questões decorrentes de costumes sociais arraigados que prejudicam as mulheres por envolvimento com essas instituições;
@@ -16,7 +16,7 @@
 
 * A identificação das áreas individuais que merecem protecção especial \(viúvas, mulheres que são ‘cabeça da família’\)
 * Estabelecimento e formação das equipas comunitárias para implementar um programa de delimitação individual
-* A delimitação e emmisão de Declarações de Prova de Acquisição de DUAT para identificar estas áreas
+* A delimitação e emmisão de **Declarações de Prova de Acquisição de DUAT **para identificar estas áreas
 
 A metodologia para a delimitação das áreas individuais e familiares segue as melhores práticas internacionais para os processos de regularização da posse de terra. Trata-se de uma série de tarefas-chave, conforme descrito nas seções a seguir.
 
