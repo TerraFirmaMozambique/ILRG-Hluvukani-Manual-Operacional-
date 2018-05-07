@@ -8,17 +8,15 @@ Entrega pela associação das declarações para titulares das áreas familiares
 
 A cooperativa faz a entrega de declarações para titulares das áreas familiares delimitadas.
 
-1. A entrega das declarações pela a cooperativa deve ocorrer numa maneira organizada e monitorada.
-2. Durante a entrega, a equipa de campo vai usar um formulário ODK especialmente desenhado para o efeito: Formulário G "Registrar Entrega", que captura dados sobre a pessoa que recebe a declaração
+A entrega das declarações pela a cooperativa deve ocorrer numa maneira organizada e monitorada.
+
+Durante a entrega, a equipa de campo vai usar um formulário ODK especialmente desenhado para o efeito: Formulário G "Registrar Entrega", que captura dados sobre a pessoa que recebe a declaração.
 
 ## Requisitos:
 
 Todas as pessoas que se apresentarem para fazer o levantamento da declaração em seu nome ou em representação de terceiros, deverão apresentar:
 
-* Recibo original;
-
-   e
-
+* Recibo original;    e
 * Documento de identificação de um dos titulares.
 
 No caso de perda ou destruição do recibo, o levantamento da declaração poderá ser feito sem a apresentação do mesmo.
