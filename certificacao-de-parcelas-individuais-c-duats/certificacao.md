@@ -2,7 +2,7 @@
 
 #### Objectivo
 
-Emissão pela a associação das declarações para titulares das áreas familiares delimitadas \(D-DUAT\).
+Emissão pela associação das declarações para titulares das áreas familiares delimitadas \(D-DUAT\).
 
 #### Processo
 
@@ -16,9 +16,9 @@ A cooperativa emite declarações para titulares das áreas familiares delimitad
 
 4. A emissão das declarações pela a cooperativa deve ocorrer dentro de um período de 60 dias após a apresentação dos pedidos.
 
-> ![](/assets/certificado.PNG)![](/assets/certificate.png)
+> ![](/assets/image.png)Imagem dum certificado
 >
-> Imagem dum certificado
+> ![](/assets/certificate_text.jpg)Verso da Declaração
 
 #### Ferramentas
 

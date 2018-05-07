@@ -8,7 +8,7 @@ Existem maneiras diferentes de fazer a identificação destes limites. Os limite
 
 Mas os DUATs adquiridos por ocupação podem ser identificados usando um processo alternativo, menos exigente, conhecido como **delimitação**. A delimitação, em linha com as melhores práticas internacionais nesta matéria, envolve a identificação dos limites das parcelas de acordo com o principio de 'limite geral'. Isto significa que não há necessidade para vigiar os limites, e que podem ser identificados sempre que possível através de referências visíveis dos limites nas imagens de satélite impressas. Quando tal não for possível, um dispositivo GPS simples será usado para tirar pontos limítrofes.
 
-Para o processo de certificação local no âmbito de CaVaTeCo, podemos usar o processo de delimitação, em que:
+Para o processo de _**certificação local **_no âmbito de CaVaTeCo, podemos usar o processo de delimitação, em que:
 
 * o uso do GPS é limitado
 * não fica necessário o envolvimento dum agrimensor
