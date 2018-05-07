@@ -1,4 +1,4 @@
-# Declarações de Acquisição de DUAT para Parcelas Individuais \(D-DUATs\)
+# Declarações para Parcelas Individuais \(D-DUATs\)
 
 ## Uma nova abordagem...
 
@@ -29,6 +29,4 @@ A metodologia para a delimitação das áreas individuais e familiares segue as 
 5. Produção de mapas e listas de requerentes para publicação \(edital\) em cada bloco
 6. Período para Confirmação, Objeções e Correções
 7. Emmisão de Declarações de Prova de Acquisição de DUAT \(D-DUATs\)
-
-
 

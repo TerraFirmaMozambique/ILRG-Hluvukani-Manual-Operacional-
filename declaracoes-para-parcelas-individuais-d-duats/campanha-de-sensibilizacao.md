@@ -1,14 +1,14 @@
-### Campanha de sensibilização e divulgação de calendário de actividades
+# Campanha de sensibilização
 
-#### **Objectivo**
+## **Objectivo**
 
 Apresentar a comunidade a metodologia de trabalho de delimitação e certificação de parcelas individuais e/ou familiares
 
-> ![](/assets/meet_pic.jpg)
+> ![](../.gitbook/assets/meet_pic.jpg)
 >
 > Reuniões públicas nas comunidades para explicação e esclarecimento do trabalho
 
-#### **Processo**
+## **Processo**
 
 * O processo começa com um encontro com os lideres influentes da comunidade, incluindo os chefes dos povoados/zonas ou seus representantes. Após este encontro será realizado um outro, mais abrangente, com membros da comunidade onde será realizado o trabalho.
 * A equipa usa os mapas dos blocos cadastrais, explicando todos os passos a seguir no processo:
@@ -32,7 +32,7 @@ Apresentar a comunidade a metodologia de trabalho de delimitação e certificaç
 * A equipa enfatiza a necessidade de tentar resolver os conflitos de terra pendentes antes do processo de mapeamento
 * Definir o plano de trabalho
 
-#### **Ferramentas**
+## **Ferramentas**
 
 * Mapa do bloco
 * Mapa Visão Geral de grelha
@@ -42,9 +42,7 @@ Apresentar a comunidade a metodologia de trabalho de delimitação e certificaç
 * Fita sinalização
 * Formulário A
 
-#### **Produtos**
+## **Produtos**
 
 Formulário A preenchido
-
-
 

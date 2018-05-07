@@ -1,6 +1,6 @@
-### Captura dos limites das parcelas familiares
+# Captura dos limites
 
-#### Natureza de demarcação vs. delimitação
+### Natureza de demarcação vs. delimitação
 
 A identificação dos limites refere-se a um processo de marcação num mapa da localização dos limites de cada área para o qual alguém deseja reivindicar um DUAT.
 
@@ -8,22 +8,22 @@ Existem maneiras diferentes de fazer a identificação destes limites. Os limite
 
 Mas os DUATs adquiridos por ocupação podem ser identificados usando um processo alternativo, menos exigente, conhecido como **delimitação**. A delimitação, em linha com as melhores práticas internacionais nesta matéria, envolve a identificação dos limites das parcelas de acordo com o principio de 'limite geral'. Isto significa que não há necessidade para vigiar os limites, e que podem ser identificados sempre que possível através de referências visíveis dos limites nas imagens de satélite impressas. Quando tal não for possível, um dispositivo GPS simples será usado para tirar pontos limítrofes.
 
-Para o processo de _**certificação local **_no âmbito de CaVaTeCo, podemos usar o processo de delimitação, em que:
+Para o processo de \_**certificação local **\_no âmbito de CaVaTeCo, podemos usar o processo de delimitação, em que:
 
 * o uso do GPS é limitado
 * não fica necessário o envolvimento dum agrimensor
 * a ferramenta principal utilizada é a imagem de satélite
 * não exige que os requerentes demarquem fisicamente as suas parcelas
 
-#### Objectivo
+### Objectivo
 
 O **principal objectivo** da delimitação é, é claro, identificar os limites das parcelas de cada requerente ou família. Isto é feito nos mapas A3, para que depois os limites podem ser digitalizados dentro do SIG.
 
 Mas um objectivo igualmente importante neste processo é tentar garantir que não haja disputas sobre onde os limites ficam entre parcelas vizinhas, ou para resolver essas disputas através do processo de delimitação. Por esse motivo, é importante que os membros da equipa e representantes da comunidade trabalhem não apenas com o requerente, mas também na presença dos seus vizinhos.
 
-#### Processo
+### Processo
 
-##### Reunião Pública
+#### Reunião Pública
 
 O chefe da equipa apresenta os membros da sua equipa e faz uma breve explicação do trabalho. Os requerentes devem ser lembrados de que:
 
@@ -35,7 +35,7 @@ O chefe da equipa apresenta os membros da sua equipa e faz uma breve explicaçã
 * Se houver disputas que sejam graves e que precisem ir para uma autoridade diferente, estas devem ser documentadas
 * Se as disputas não puderem ser resolvidas, a delimitação ainda será feito no campo, mas as parcelas não serão certificadas nem os certificados entregues até estas disputas serem resolvidas
 
-##### Preparação
+#### Preparação
 
 O trabalho de campo é feito de forma sistemática, parcela por parcela. Para isto é imprescindível a presença do:
 
@@ -45,7 +45,7 @@ O trabalho de campo é feito de forma sistemática, parcela por parcela. Para is
 
 O trabalho do campo é realizado com base de mapas A3 com imagens satélites, formulários digitais inseridos no tablet acompanhado com GPS Garmin, caneta, lápis e borracha.
 
-##### Fluxo de actividades
+#### Fluxo de actividades
 
 O formulário é organizado para colectar dados na seguinte ordem:
 
@@ -65,7 +65,7 @@ A equipa então deve prosseguir na seguinte maneira:
 6. Preencher o recibo, tirar uma imagem do recibo e entregar o original ao requerente
 7. Fecha o formulário quando tudo esteja completado
 
-#### Marcação dos limites nos mapas
+### Marcação dos limites nos mapas
 
 A equipa se reúnem com o requerente na parcela de terra e juntos tentam identificar os limites utilizando a imagem do mapa. Em muitos casos, com a ajuda da equipa, as pessoas poderão ver onde a sua terra cai sobre as imagens.
 
@@ -75,7 +75,7 @@ O enumerador marcará o contorno do limite no mapa com uma **linha solida**, usa
 * Os lápis macios \(pelo menos 3B\) devem ser usados porque são mais fáceis de apagar e são menos propensos a rasgar o papel
 * A espessura da linha não importa, porque a equipa no escritório também pode ver a imagem digital original da imagem de satélite na tela do computador
 
-#### Limites que não sejam identificáveis através dos mapas
+### Limites que não sejam identificáveis através dos mapas
 
 Existem dois casos em que a equipa deve caminhar ao redor da parcela com o requerente e levar uma série de pontos usando o GPS, para que estes possam ser usados ​​pela equipa no escritório para digitalizar os limites:
 
@@ -104,7 +104,7 @@ A captura é feita com base em imagens satélites. A equipe de campo, facilita a
 
 Depois a captura dos limites e a confirmação pelo o requerente e os vizinhos, a equipa preenche o recibo, deixando uma copia com o requerente.
 
-> ![](/assets/recibo.png)
+> ![](../.gitbook/assets/recibo.png)
 >
 > Exemplo do recibo
 
@@ -112,7 +112,7 @@ O numero de recibo serve também como o Número Único de Parcela \(NUP\), que v
 
 Depois de concluir o trabalho, a equipa do campo vai enviar os mapas impressos marcados no campo para o escritório do projecto, onde os limites das parcelas serão digitalizados e ligados aos dados dos formulários ODK. O próprio banco de dados será criado usando o PostgreSQL PostGIS e o software QGIS.
 
-#### Resumo das regras na delimitação de limites
+### Resumo das regras na delimitação de limites
 
 * Os limites comuns, onde não há disputa, são marcados com \[\_\_\_\_\_\_\_\_\_\_\_\] linhas solidas
 * Limites pouco claros são marcados com \[- - - - - - - - -\] linhas tracejadas
@@ -124,12 +124,12 @@ Depois de concluir o trabalho, a equipa do campo vai enviar os mapas impressos m
   * Se uma folha de mapa 'H' não estiver disponível, use o Formulário ODK para marcar os pontos de referência do limite que cai na folha em falta.
   * Desenhe os limites até a borda das folhas de mapa H \(não pare na linha de borda verde\).
 
-#### Conclusão
+### Conclusão
 
 * Preencher o recibo
 * Preencher o Formulário C: Registo de Parcelas D-DUATs
 
-#### Ferramentas
+### Ferramentas
 
 Cada equipa vai ter:
 
@@ -144,6 +144,4 @@ Cada equipa vai ter:
 ## Produtos
 
 * Mapa xx
-
-
 

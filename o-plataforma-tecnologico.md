@@ -1,4 +1,4 @@
-# O Plataforma Tecnologico da CaVaTeCo
+# O Plataforma Tecnologico
 
 
 

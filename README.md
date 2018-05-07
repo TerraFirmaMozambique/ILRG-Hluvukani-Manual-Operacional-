@@ -1,6 +1,4 @@
-# Manual Operacional de CaVaTeCo - Responsible Land Project
+# Introdução
 
-![](/assets/cover.png)
-
-
+![](.gitbook/assets/cover.png)
 
