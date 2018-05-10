@@ -14,9 +14,7 @@ Produzir e imprimir um conjunto de mapas na escala 1:3,000 para servir como a ba
 * Depois, a equipa técnica do escritório produz o conjunto de mapas para o bloco cadastral. A equipa do escritório envia para a equipa do campo, em formato PDF, que por sua vez imprime os mapas no papel de tamanho A3.
 * Estes mapas oferecem uma escala suficiente para a identificação de parcelas individuais e/ou familiares \(visualizando por exemplo árvores, _machambas_, casas de alvenaria e de zinco\), infraestruturas comunitárias \(p.e. estradas, caminhos, escolas, postos de saúde e pontes\), plantações e áreas de floresta.
 
-> ![](../.gitbook/assets/grelha.jpg)Imagem da grelha para um povoado da comunidade de Malalo
-
-## **Ferramentas**
+## F**erramentas**
 
 * Mapas e imagens no sistema QGIS
 
