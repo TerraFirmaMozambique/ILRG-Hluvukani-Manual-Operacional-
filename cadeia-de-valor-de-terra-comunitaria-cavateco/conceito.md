@@ -10,7 +10,7 @@ Aplicando esse conceito à terra da comunidade, a representação mais simples d
 
 ![A Cadeia de Valor de Terra Comunit&#xE1;ria](../.gitbook/assets/cavateco_en.png)
 
-Os produtos desejados a partir desses processos da cadeia de valor são os benefícios concretos que podem advir para as comunidades locais como resultado da transformação de seus direitos legais em direitos reais registados. Estes podem incluir benefícios legais monetários do pagamento de taxas de licença de uso dos recursos naturais \(sob regulamentos florestais e de mineração, ou através de pagamentos por serviços ambientais\), ou oportunidades de colaboração comercial com investidores, através da cedência negociada de terras para empreendimentos baseados na terra, ou através da criação de oportunidades para os produtores locais participarem em programas de fomento agrícolas ou acordos de contratação agrícola. 
+Os produtos desejados a partir desses processos da cadeia de valor são os benefícios concretos que podem advir para as comunidades locais como resultado da transformação de seus direitos legais em direitos reais registados. Estes podem incluir benefícios legais monetários do pagamento de taxas de licença de uso dos recursos naturais \(sob regulamentos florestais e de mineração, ou através de pagamentos por serviços ambientais\), ou oportunidades de colaboração comercial com investidores, através da cedência negociada de terras para empreendimentos baseados na terra, ou através da criação de oportunidades para os produtores locais participarem em programas de fomento agrícolas ou acordos de contratação agrícola.
 
 ![Os Produtos da Cadeia de Valor de Terra Comunit&#xE1;ria](../.gitbook/assets/product_en.png)
 
@@ -31,9 +31,9 @@ Há três componentes essências para o processo de transformação, resumidas:
   * Desenvolver abordagens de conservação que lhe permitam beneficiar de programas relacionados ao aumento do seqüestro de carbono ou proteção dos serviços ecossistêmicos;
   * e / ou permitir que indivíduos e famílias demarquem suas terras, incluindo abordagem de questões de posse para mulheres e outros membros vulneráveis da comunidade.
 
-Dentro do processo de transformação, portanto, existem diferentes pilares e actividades de CaVaTeCo, que são melhor representados conceptualmente através de um diagrama, conforme mostrado abaixo.
+Dentro do processo de transformação, portanto, existem diferentes pilares e actividades de CaVaTeCo, que são melhor representados conceptualmente através de um diagrama, conforme mostrado abaixo.
 
-![](../.gitbook/assets/product_en%20%281%29.png)
+![](../.gitbook/assets/product_en-1.png)
 
 Dentro de cada uma destas componentes, a plataforma CaVaTeCo aproveita várias ferramentas e opções legais e técnicas para realizar actividades e abordar problemas e desafios. Mas a abordagem CaVaTeCo também agrega valor ao quadro jurídico existente sobre a delimitação de terras da comunidade e das familias, das seguintes maneiras:
 

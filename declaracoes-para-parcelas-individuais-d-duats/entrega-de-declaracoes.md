@@ -10,22 +10,25 @@ A cooperativa faz a entrega de declarações para titulares das áreas familiare
 
 A entrega das declarações pela a cooperativa deve ocorrer numa maneira organizada e monitorada.
 
-Durante a entrega, a equipa de campo vai usar um formulário ODK especialmente desenhado para o efeito: Formulário G "Registrar Entrega", que captura dados sobre a pessoa que recebe a declaração.
+Durante a entrega, a equipa de campo vai usar um formulário ODK especialmente desenhado para o efeito: Formulário G "Registrar Entrega", que captura dados sobre a pessoa que recebe a declaração.
 
 ## Requisitos:
 
 Todas as pessoas que se apresentarem para fazer o levantamento da declaração em seu nome ou em representação de terceiros, deverão apresentar:
 
-* Recibo original;    e
+* Recibo original;
+
+    e
+
 * Documento de identificação de um dos titulares.
 
 No caso de perda ou destruição do recibo, o levantamento da declaração poderá ser feito sem a apresentação do mesmo.
 
 ## Parcelas com declarações emitidas
 
-Se a pessoa que vai fazer o levantamento da declaração não apresentar o documento de identificação de um dos titulares, o preenchimento do formulário deverá ser cancelado sem gravar as informações já preenchidas. \(Não gravar formulário\)
+Se a pessoa que vai fazer o levantamento da declaração não apresentar o documento de identificação de um dos titulares, o preenchimento do formulário deverá ser cancelado sem gravar as informações já preenchidas. \(Não gravar formulário\)
 
-Se a pessoa que vai fazer o levantamento da declaração apresentar o documento de identificação de um dos titulares, deve-se fotografar a pessoa com o certificado em mãos, como na foto exemplo que consta no formulário, tirar uma foto do documento de identificação apresentado \(do titular\) frente e verso, colectar a assinatura da pessoa que vai fazer o levantamento, cancelar o recibo apresentado e tirar uma foto deste após o cancelamento. Nos casos em que tiver ocorrido a perda/destruição do recibo, os enumeradores deverão fotografar um cartão do tamanho do recibo por eles produzido, com a frase: Recibo perdido. \(Gravar formulário\)
+Se a pessoa que vai fazer o levantamento da declaração apresentar o documento de identificação de um dos titulares, deve-se fotografar a pessoa com o certificado em mãos, como na foto exemplo que consta no formulário, tirar uma foto do documento de identificação apresentado \(do titular\) frente e verso, colectar a assinatura da pessoa que vai fazer o levantamento, cancelar o recibo apresentado e tirar uma foto deste após o cancelamento. Nos casos em que tiver ocorrido a perda/destruição do recibo, os enumeradores deverão fotografar um cartão do tamanho do recibo por eles produzido, com a frase: Recibo perdido. \(Gravar formulário\)
 
 ## Parcelas em disputa
 
