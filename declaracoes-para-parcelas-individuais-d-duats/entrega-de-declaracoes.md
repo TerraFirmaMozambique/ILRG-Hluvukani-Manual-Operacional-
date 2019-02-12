@@ -2,13 +2,13 @@
 
 ## Objectivo
 
-Entrega pela associação das declarações para titulares das áreas familiares delimitadas \(D-DUAT\).
+Entrega pela associação das declarações aos titulares das áreas familiares delimitadas \(D-DUAT\).
 
 ## Processo
 
-A cooperativa faz a entrega de declarações para titulares das áreas familiares delimitadas.
+A cooperativa faz a entrega das declarações aos titulares das áreas familiares delimitadas.
 
-A entrega das declarações pela a cooperativa deve ocorrer numa maneira organizada e monitorada.
+A entrega das declarações pela cooperativa deve ocorrer de uma maneira organizada e monitorada.
 
 Durante a entrega, a equipa de campo vai usar um formulário ODK especialmente desenhado para o efeito: Formulário G "Registrar Entrega", que captura dados sobre a pessoa que recebe a declaração.
 
@@ -36,7 +36,7 @@ Estas parcelas apresentam disputas que não foram resolvidas durante o processo 
 
 ## Parcelas não digitalizadas \(falta de informação espacial\)
 
-Para estas parcelas durante o processo do registro, não se fez o levantamento dos pontos limites e também não se fez o desenho das mesmas nos mapas. Assim, não existe informação suficiente para que se faça a digitalização. Ao introduzir o UPN no formulário, surgirá a mensagem informando sobre a situação da parcela. O formulário deverá ser salvo e o beneficiário deverá ser informado sobre a possibilidade de resolver a situação, para tal, deverá contactar a cooperativa para que se faça o levantamento dos novos limites. \(Gravar formulário\)
+Para estas parcelas durante o processo do registo, não se fez o levantamento dos pontos limites e também não se fez o desenho das mesmas nos mapas. Assim, não existe informação suficiente para que se faça a digitalização. Ao introduzir o UPN no formulário, surgirá a mensagem informando sobre a situação da parcela. O formulário deverá ser salvo e o beneficiário deverá ser informado sobre a possibilidade de resolver a situação, para tal, deverá contactar a cooperativa para que se faça o levantamento dos novos limites. \(Gravar formulário\)
 
 ## Parcelas da associação
 
@@ -45,7 +45,7 @@ As parcelas registradas em nome da associação não são elegíveis para a prod
 ## Ferramentas
 
 * Formulário G Registrar Entrega
-* Duas listas dos requerentes, organizadas 1\) alfabaticamente e 2\) por numero de parcela
+* Duas listas dos requerentes, organizadas 1\) alfabaticamente e 2\) por número de parcela
 
 ## Produtos
 

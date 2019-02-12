@@ -6,7 +6,7 @@ O objectivo da publicação do mapa e da lista das parcelas é de permitir que t
 
 ## Considerações legais
 
-Segundo o artigo 24, do Regulamento da Lei de Terra é obrigatório a afixação do edital em locais públicos de maior concentração da população para facilitar a consulta, o período máximo estabelecido pela legislação de terras é de 30 dias. No entanto, no programa Terra Segura, o edital e afixado durante o período de 15 dias.
+Segundo o artigo 24, do Regulamento da Lei de Terra é obrigatório a afixação do edital em locais públicos de maior concentração da população para facilitar a consulta, o período máximo estabelecido pela legislação de terras é de 30 dias. No entanto, no programa Terra Segura, o edital é afixado durante o período de 15 dias.
 
 Assim, o mapa e a lista são exibidos na comunidade por um período de pelo menos 15 dias, de acordo com as directrizes nacionais. No entanto, sugerimos que, em algumas comunidades, talvez seja necessário prolongar esse período, para permitir que as pessoas que estão longe da comunidade tenham tempo suficiente para participar do processo.
 
@@ -21,7 +21,7 @@ Neste ponto, também é importante verificar transversalmente a lista de parcela
 
 No edital devem constar os seguintes elementos:
 
-* Mapa das parcelas, todos identificados com o respectivo código cadastral e sobrepostos à imagem satélite que serviu durante o trabalho de campo;
+* Mapa das parcelas, todas identificadas com o respectivo código cadastral e sobrepostas à imagem satélite que serviu durante o trabalho de campo;
 * Uma tabela com a informação alfanumérica em relação a cada parcela;
 
 Cada individuo tem que indicar a sua:
@@ -32,11 +32,15 @@ Ou
 
 * Correcção: caso haja algum dado a rectificar. Nestes casos, as correcções têm que ser feitas no mapa e na lista.
 
+Ou
+
+* Objecção: caso em que algum membro da comunidade queira contestar os limites da parcela de um dos requerentes.
+
 ## Processo
 
 Durante o período do edital, os requerentes e/ou não-requerentes podem fazer objecções ou correcções das informações apresentadas.
 
-Com base no código cadastral da parcela e munidos do respectivo documento de identificação, as pessoas podem verificar no mapa se a localização e os limites da parcela estão conforme, assim como a informação contida na tabela. Com correcções ou objecções feitas, os dados são registados no mapa e/ou na lista, usando um sistema de adesivos coloridos.
+Com base no código cadastral da parcela e munidas do respectivo documento de identificação, as pessoas podem verificar no mapa se a localização e os limites da parcela estão conforme, assim como a informação contida na tabela. Com correcções ou objecções feitas, os dados são registados no mapa e/ou na lista, usando um sistema de adesivos coloridos.
 
 Quaisquer disputas sobre limites ou posse poderá ter de ser resolvido pela liderança tradicional local, pelos representantes da associação ou pela administração local.
 
@@ -50,7 +54,7 @@ Depois do edital terminar, o mapa e as listas devem ser analisados, de forma a c
 
 No fim do período, a equipa de campo visita e recolhe os dados alterados nos mapas e listas, novamente usando um formulário ODK especialmente desenhado para o efeito:
 
-* Formulário Formulário D Objecções e Correcções ", que captura dados sobre os resultados do processo de O&C, incluindo o registo de quaisquer disputas que surgiram
+* Formulário D Objecções e Correcções ", que captura dados sobre os resultados do processo de O&C, incluindo o registo de quaisquer disputas que surgiram
 
 ## Ferramentas
 

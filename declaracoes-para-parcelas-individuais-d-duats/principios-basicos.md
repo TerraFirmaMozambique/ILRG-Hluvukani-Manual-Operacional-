@@ -8,9 +8,9 @@ A formalização dos direitos individuais informais e a sua administração efic
 A regularização dos direitos individuais, basea-se nos seguintes princípios orientadores:
 
 1. **Segurança**: Os direitos de terra serão garantidos pelo Estado;  
-2. **Simplicidade**: Serão utilizados formulários digitais simples, de facil manuseamento e com procedimentos claros e lineares; 
-3. **Baixo custo**: Os custos deverão ser o mais baixo possivel durante todos os procedimentos afim de tornar o sistema sustentável, mas com boa qualidade, 
+2. **Simplicidade**: Serão utilizados formulários digitais simples, de fácil manuseamento e com procedimentos claros e lineares; 
+3. **Baixo custo**: Os custos deverão ser o mais baixo possível durante todos os procedimentos afim de tornar o sistema sustentável, mas com boa qualidade;
 4. **Plenitude**: O resultado final de formalização dos direitos individuais será o registo definitivo e completo das áreas, formando assim, um cadastro, incluindo os dados dos seus ocupantes e seus direitos.
 
-A alocação/formalização de terras para os agricultores individuais e agregados familiares é conduzida de forma transparente e consensual e que existem oportunidades adequadas para objecções e correcções antes que os processos cheguem ao ponto de registo.
+A alocação/formalização de terras para os agricultores individuais e agregados familiares é conduzida de forma transparente e consensual, existindo oportunidades adequadas para objecções e correcções antes que os processos cheguem ao ponto de registo.
 

@@ -28,7 +28,7 @@ Importa ressaltar que nesta fase não serão feitas novas submissões, apenas a 
 ## Ferramentas
 
 * Formulário D Objecções e Corecções
-* Mapa A1 OC com limites alterados
+* Mapa A1 O&C com limites alterados
 * Listas dos requerentes com correcções
 
 ## Produtos

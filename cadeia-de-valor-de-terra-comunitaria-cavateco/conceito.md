@@ -20,7 +20,7 @@ O ponto de partida é, portanto, baseado nos direitos, aproveitando os direitos 
 
 ![Componentes do processo de transforma&#xE7;&#xE3;o](../.gitbook/assets/transformation_en.png)
 
-Há três componentes essências para o processo de transformação, resumidas:
+Há três componentes essenciais para o processo de transformação, resumidos:
 
 * Ajudar a criar a capacidade institucional dentro duma comunidade local, incluindo a delimitação formal dos direitos da comunidade e estabelecer uma entidade com personalidade jurídica para a comunidade, que lhe permita lidar com o mundo exterior;
 * Facilitar o mapeamento e o plano participativo dos usos actuais e futuros de terras e recursos dentro da comunidade e identificar ameaças e oportunidades locais relacionadas aos seus direitos adquiridos de modo a gerir os recursos naturais e terra;
@@ -28,7 +28,7 @@ Há três componentes essências para o processo de transformação, resumidas:
   * Aumentando sua participação nos processos de alocação de terras pelo Estado;
   * Alavancando seus direitos estatutários para uma percentagem das taxas de licença de uso de recursos locais;
   * Aproveitar as oportunidades para estabelecer parcerias com operadores comerciais;
-  * Desenvolver abordagens de conservação que lhe permitam beneficiar de programas relacionados ao aumento do seqüestro de carbono ou proteção dos serviços ecossistêmicos;
+  * Desenvolver abordagens de conservação que lhe permitam beneficiar de programas relacionados ao aumento do sequestro de carbono ou proteção dos serviços ecossistêmicos;
   * e / ou permitir que indivíduos e famílias demarquem suas terras, incluindo abordagem de questões de posse para mulheres e outros membros vulneráveis da comunidade.
 
 Dentro do processo de transformação, portanto, existem diferentes pilares e actividades de CaVaTeCo, que são melhor representados conceptualmente através de um diagrama, conforme mostrado abaixo.
